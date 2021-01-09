@@ -1,0 +1,22 @@
+body {
+  font-family: 'East Sea Dokdo', cursive;    
+}
+
+.App {
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  text-align: center;
+  font-size: 12em;
+  line-height: 0.8;
+  cursor: pointer;
+  font-style: normal;
+}
