@@ -1,5 +1,5 @@
 body {
-  font-family: 'East Sea Dokdo', cursive;    
+  font-family: "East Sea Dokdo", cursive;
 }
 
 .App {
@@ -11,6 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 
 p {
@@ -19,4 +20,9 @@ p {
   line-height: 0.8;
   cursor: pointer;
   font-style: normal;
+}
+
+.app-state {
+  color: violet;
+  font-size: x-large;
 }
